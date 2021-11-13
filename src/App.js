@@ -6,9 +6,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          This is a React App in GitHub Pages using GitHub Actions Workflow
-        </p>
+        <p>This is a React App in GitHub Pages using GitHub Actions Workflow</p>
+        <p>By Edwin Aquino</p>
         <a
           className="App-link"
           href="https://reactjs.org"
