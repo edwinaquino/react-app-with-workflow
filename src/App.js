@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          I made a change 2
+          This is a React App in GitHub Pages using GitHub Actions Workflow
         </p>
         <a
           className="App-link"
