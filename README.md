@@ -1,4 +1,26 @@
-# Getting Started with Create React App
+# React Application with GitHub Pages and GitHub Actions Workflows
+
+The purpose of this app is to publish a React application to GitHub Pages and taking advantage of the free GitHub Actions Workflows.
+
+For this workflow, A container with Linux Ubuntu and Node.JS was generated with the workflow.yml file
+
+### Dependencies
+GitHub pages Package: gh-pages
+
+### GitHub Pages Deploy Action 🚀
+This GitHub Action will automatically deploy your project to GitHub Pages. It can be configured to push your production-ready code into any branch you'd like, including gh-pages and docs. It can also handle cross repository deployments and works with GitHub Enterprise too. 
+[GitHub Pages Deploy Action](https://github.com/JamesIves/github-pages-deploy-action)
+
+### Live Demo:
+
+[Live Demo in GitHub Pages](https://edwinaquino.github.io/react-app-with-workflow/index.html)
+
+### Tutorial
+I have created a step by step tutorial to document the process how to publish a React Application to Github Pages with GitHub Action workflows:
+
+[How To Deploy A React App Into GitHub Pages Using GitHub Actions](https://www.edwinaquino.com/forums/deploy-a-react-app-into-github-pages-using-github-actions.html)
+
+# About React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
